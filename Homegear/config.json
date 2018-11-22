@@ -23,6 +23,6 @@
   "schema": {
   },
   "devices": [
-     "/dev/ttyAMA0:/dev/ttyAMA0:rwm"
+     "/dev/ttyAMA0:/dev//dev/ttyS0:rwm"
   ]
 }
